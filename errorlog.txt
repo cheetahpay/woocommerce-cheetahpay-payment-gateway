@@ -1,0 +1,33 @@
+*************************************
+     Date Time: 2018-03-26 10:03:19
+------------------------------------
+{
+    "merchantId": null,
+    "x_api_key": null,
+    "x_version": "3.1",
+    "x_amount": "80.00",
+    "x_order_id": 45,
+    "x_invoice_num": "45",
+    "x_test_request": "FALSE",
+    "x_first_name": "Incofab",
+    "x_last_name": "Ikenna",
+    "x_address": "My address 1",
+    "x_city": "Onitcha",
+    "x_state": "AN",
+    "x_zip": "234",
+    "x_country": "NG",
+    "x_phone": "7036098561",
+    "x_email": "incofab@yahoo.com",
+    "x_ship_to_first_name": "Incofab",
+    "x_ship_to_last_name": "Ikenna",
+    "x_ship_to_company": "Inco technologies",
+    "x_ship_to_address": "My address 1",
+    "x_ship_to_city": "Onitcha",
+    "x_ship_to_country": "NG",
+    "x_ship_to_state": "AN",
+    "x_ship_to_zip": "234",
+    "x_cust_id": 0,
+    "x_customer_ip": "::1"
+}
+
+*************************************
